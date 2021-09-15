@@ -1,0 +1,19 @@
+﻿<Window x:Name="WindowDlgHelp2" x:Class="COV2CON.HelpDialogRtf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:COV2CON"
+        mc:Ignorable="d"
+        Title="COV2CON Help" Height="680" Width="800" ResizeMode="CanResizeWithGrip" KeyUp="Window_KeyUp" SizeChanged="Window_SizeChanged">
+    <Grid>
+        <FlowDocumentReader x:Name="FlowDocumentReaderHelp" Margin="10" Loaded="FlowDocumentReaderHelp_Loaded">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentReader>
+
+    </Grid>
+</Window>
