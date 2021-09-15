@@ -1,5 +1,5 @@
 # COV2CON
-Requires Windows 10 Desktop version 10.0.17763.0 or higher
+<sub><sup>Requires Windows 10 Desktop version 10.0.17763.0 or higher</sub></sup>
 
 Cov-2 Condition, or COV2CON for short, is an instrument for exploring daily and historical values of select COVID-19 epidemiological indicators to help compare the severity of the pandemic across multiple countries.
 
