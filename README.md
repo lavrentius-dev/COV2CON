@@ -5,4 +5,4 @@ Cov-2 Condition, or COV2CON for short, is an instrument for exploring daily and 
 
 ><ins>Disclaimer</ins>: This Application is provided on an “as is” basis. The results and information generated hereby are provided by third party organizations and should be  verified by the User prior to use. The Developer is not responsible, and cannot be held liable for how this information is used, or for any consequences thereof.
 
-The code in this project is undocumented and unsupported.
+The C# code in this project is undocumented and unsupported.
