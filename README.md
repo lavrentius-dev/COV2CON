@@ -7,4 +7,4 @@ Cov-2 Condition, or COV2CON for short, is a legacy instrument for exploring dail
 
 The C# code in this project is undocumented and unsupported.
 
-Note: As of January 2026, the servers that provided data updates are no longer accessible to the application. Consequently, th app uses the default, embedded datasets (circa 2020), which are no longer valid.
+Note: As of January 2026, the servers that provided data updates are no longer accessible to the application. Consequently, the application uses the default, embedded datasets (circa 2020), which are no longer valid.
